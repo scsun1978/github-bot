@@ -1,0 +1,4 @@
+- **{{NAME}}**：{{DESC}}  
+  - 入口：`.agents/skills/{{NAME}}/SKILL.md` / `.agents/skills/{{NAME}}/run.sh`  
+  - 适用：典型触发/使用场景  
+  - 来源：本仓库（自建）
